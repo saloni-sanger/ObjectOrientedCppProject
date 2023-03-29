@@ -1,0 +1,5 @@
+4
+HIIT high-knees 20 40 20
+HIIT plank-jacks 10 40 15
+HIIT burpees 25 60 30
+HIIT jumping-lunges 10 60 0

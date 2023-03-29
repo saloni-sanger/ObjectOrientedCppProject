@@ -1,0 +1,10 @@
+9
+TriWorkout running 10 1
+FitSet bicep-curl arms 15 20
+FitSet deadlift arms 120 5
+HIIT jumping-squats 20 40 20
+FitSet bicep-curl arms 15 20
+FitSet deadlift arms 120 5
+HIIT jumping-squats 20 40 20
+TriWorkout swimming 15 1000
+TriWorkout running 20 3
