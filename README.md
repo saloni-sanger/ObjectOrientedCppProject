@@ -14,12 +14,12 @@ time as well as sets
 or cycling
 
 These are all a subtype of the **workout** class, the 
-**workout** class itself is pretty unimportant.
+**workout** class itself is unimportant.
 
 You can create an empty session of workouts using 
 the **sessionLog** class. 
 Someone can then perform these workouts and the 
-intended use is for the creator of the session would
+intended use is for the creator of the session to
 then assess the quality of the session performed via
 stats provided. 
 
